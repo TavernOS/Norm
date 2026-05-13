@@ -45,3 +45,6 @@ code_puppy/bundled_skills/
 .claude/hooks/ts-hooks/dist/
 
 .json
+
+# OS cruft
+**/.DS_Store
